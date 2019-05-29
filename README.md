@@ -1,4 +1,8 @@
+> Hi all, the simulation file is accessible via GitHub Page @
+ https://lameo.github.io/AMBS-Optimizing_Aircraft_Boarding_Methods/
+
 ![alt text](media/0.JPG "Title")
+ 
 # Optimizing Aircraft Boarding Methods
 *Under Professor Cheng Shih-Fen, School of Information Systems, Singapore Management University*
 
